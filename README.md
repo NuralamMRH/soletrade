@@ -1,5 +1,10 @@
-frontend-app/
+# SoleTrade
 
+A modern e-commerce platform built with React Native.
+
+## Project Structure
+
+frontend-app/
 
 .expo
 

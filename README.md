@@ -2011,3 +2011,4 @@ react-native.config.js
 tsconfig.json
 
 yarn.lock
+# soletradeproject
